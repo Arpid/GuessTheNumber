@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GuesstheNumber</string>
+    <string name="guessed">guessed</string>
 </resources>
